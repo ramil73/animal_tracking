@@ -1,0 +1,16 @@
+node_modules/
+
+# Build files
+build
+
+# Environment files
+.env
+.env.*
+
+# Seed files
+test.json
+result.json
+result2.json
+
+# Scripts
+scrape.js
